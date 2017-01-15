@@ -8,20 +8,21 @@ header p{
 
 }
 
-hr{
-	color:black;
-}
-
-.container h1{
-	color: #E7F3F8;
-}
 
 header{
 	padding: 20px 0
+	
 }
 
-.row{
+header .row{
 	background-color:#1F5846;
+}
+
+.main{
+	background-color: #E7F3FF;
+}
+ .container .row{
+	
 }
 
 .main p{
@@ -29,6 +30,21 @@ header{
 	font-family: 'Roboto', sans-serif
 }
 
+.container .row p{
+	padding-top: 0px;
+	padding-bottom: 20px;
+}
+
+img {
+	width:320px;
+	max-width: 320px;
+	max-height: 500px;
+}
+
+.cast .container img{
+	width: 45px;
+}
+.container 
 
 /*#footer{
 	position:absolute;
