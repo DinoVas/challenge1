@@ -1,20 +1,39 @@
-.container{
-	background-color:white;
+header p{
+	display: inline;
+	padding:20px;
+	position: relative;
+	top: 25px;
+	padding-right: 40px;
+	padding-left: 40px;
+
 }
 
-.container {
-	font-family: arial;
-	padding-left: 15%;
-	padding-right: 15%;
-
+hr{
+	color:black;
 }
 
-h1{
-	padding-right: 15%;
-	padding-left: 15%;
+.container h1{
+	color: #E7F3F8;
 }
 
-p{
-	margin-top: 40px;
-	margin-bottom: 40px;
+header{
+	padding: 20px 0
 }
+
+.row{
+	background-color:#1F5846;
+}
+
+.main p{
+	padding:30px;
+	font-family: 'Roboto', sans-serif
+}
+
+
+/*#footer{
+	position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;    Height of the footer 
+   left: 130px;
+}*/
