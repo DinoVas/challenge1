@@ -1,0 +1,20 @@
+.container{
+	background-color:white;
+}
+
+.container {
+	font-family: arial;
+	padding-left: 15%;
+	padding-right: 15%;
+
+}
+
+h1{
+	padding-right: 15%;
+	padding-left: 15%;
+}
+
+p{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
